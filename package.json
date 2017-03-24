@@ -11,5 +11,10 @@
   "keywords": [
     "heroku-plugin"
   ],
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parse-database-url": "^0.3.0",
+    "shelljs": "^0.7.7",
+    "tmp": "0.0.31"
+  }
 }

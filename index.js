@@ -1,9 +1,9 @@
 exports.topic = {
-  name: 'hello',
-  // this is the help text that shows up under `heroku help`
-  description: 'a topic for the hello world plugin'
+  name: 'wp',
+  description: ''
 }
 
 exports.commands = [
-  require('./commands/world.js')
+  require('./commands/fork.js'),
+  require('./commands/cli.js')
 ]
