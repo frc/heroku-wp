@@ -1,0 +1,15 @@
+{
+  "name": "heroku-wp",
+  "version": "1.0.0",
+  "description": "basic example heroku plugin",
+  "main": "index.js",
+  "author": "",
+  "repository": "heroku/heroku-wp",
+  "bugs": {
+    "url": ""
+  },
+  "keywords": [
+    "heroku-plugin"
+  ],
+  "license": "ISC"
+}
