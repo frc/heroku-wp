@@ -1,5 +1,9 @@
 # heroku-wp
 
+# Warning
+
+This is more than just a proof-of-concept, but it has not been tested by anyone else than me. Make sure to take a database backup of production database as well as a copy of the envirionment if you decide to try this out. Feel free to improve it too!
+
 ## Usage
 
 You can install the package by running
