@@ -15,7 +15,7 @@
   "dependencies": {
     "heroku-cli-util": "^6.2.10",
     "parse-database-url": "^0.3.0",
-    "shelljs": "^0.7.7",
+    "shelljs": "^0.8.5",
     "tmp": "0.0.31"
   }
 }
